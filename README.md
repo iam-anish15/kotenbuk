@@ -118,7 +118,7 @@ kotenbuk/
 
 📸 Screenshots
 
-(Add screenshots or reuse from group repo if you have them)
+(Not Available rn)
 
 
 👥 Contributors
